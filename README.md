@@ -1,5 +1,5 @@
 # encoder_benchmarks
-Ad-hoc encoder benchmarking tool: supports JSON, BSON, MsgPack, Cap'n'Proto
+Ad-hoc python encoder benchmarking tool: supports JSON, BSON, MsgPack, Cap'n'Proto
 # Results from run
 ```
 (venv) Mikkos-MacBook-Pro:encoder_benchmarks keitsi$ python speed.py
